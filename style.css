@@ -2,3 +2,8 @@ header{
     background-color: rgb(8, 6, 114);
     color:azure
 }
+
+.cabecalho-imagem{
+    border-radius: 20%;
+    width: 50%;
+}
