@@ -17,7 +17,7 @@ body {
 
 .cabecalho-imagem{
     border-radius: 30%;
-    width: 30%;
+    width: 40%;
 }
 
 .cabecalho-lista-item{
@@ -50,8 +50,8 @@ body {
 .escola-texto-um{
     text-align: center;
     padding: 50px 0 50px 0;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 .escola-imagem{
     border-radius: 30%;
@@ -85,7 +85,7 @@ body {
 }
 
 .rodape{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     text-align: center;
 }
 
