@@ -81,7 +81,7 @@ body {
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 10% 25% 30% 25% 10%;
 }
 
 .rodape{
@@ -101,6 +101,7 @@ body {
 
 .personagem-texto-um{
     color: rgb(255, 255, 255);
+    padding: 1em 1em 1em 1em;
 }
 
 .estudante-nome{
